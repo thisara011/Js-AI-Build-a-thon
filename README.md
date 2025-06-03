@@ -1,54 +1,52 @@
-<header>
+<!-- readme -->
 
-# 🚀 JS AI Build-a-thon
+# 🎉 Welcome to the JS AI Build-a-thon!
 
-### 🤖 AI June Jams with JavaScript
+This is a hands-on experience designed for you to work through a series of quests, each designed to guide you through the process of building AI apps step by step.
 
-9 Unique Hands-On Quests for JS/ TS Developers to Build AI Apps on Azure AI Foundry, and gain a deeper understanding of AI Technologies, Tools and Frameworks.
+🧠 Concepts you will cover include:-
 
-✨ [Register for the online JS AI Build-a-thon Event Series](https://aka.ms/JSAIBuild-a-thon) ✨
+- GitHub Models
+- Azure AI Foundry VS Code Extension
+- Azure AI Foundry Portal
+- AI Toolkit VS Code Extension
+- Azure Developer CLI (azd)
+- Express.js
+- Vite, Lit
+- LangChain.js
+- Azure AI Agents Service
+- MCP Tools
 
-</header>
+## 🗺️ How it works
 
-- **👩‍💻 Who this is for:** Developers &#8594; AI Engineers
-- **🧠 What you'll learn:** To Seamlessly Integrate AI Capabilities into Web Applications. The build-a-thon is designed to get you from _Not having worked with AI_ &#8594; _building local AI prototypes_ &#8594; _deploying and extending AI applications on Azure_
-- **🛠️ What you'll do:** 
-   - 💻 Build Local AI Prototypes with **GitHub Models** & **AI Toolkit Extension** _(NO AZURE ACCOUNT NEEDED)_
-   - 🔄 Migrate Prototype to Azure **(GitHub Models &#8594; Azure AI Foundry)**
-   - ☁️ Deploy Models and Use in Code with the **Azure AI Foundry Extension**
-   - 📊 Connect to external data with RAG, add conversation history with **LangChain.js**
-   - 🤖 Build an AI Agent with **Azure AI Foundry Extension**
-   - 🧰 Extend Agent with MCP Tools using the **AI Toolkit Extension**
+This build-a-thon is organized into **quests** — choose the one that matches your goals and click its badge to begin.
 
-## 🏁 How to get started
+Each quest has a required activity (e.g., push code). After you complete it, **GitHub Actions** will automatically unlock your next step.
 
-1️⃣ Right Click on the **Start Course** &#8595; button below and open in a new tab. 
+**Tips:**  
+⭐ **Recommended path**⭐ Start with the first quest and go in order for the **best** learning experience.  
 
-   - **Owner**: _Your personal account_ 
-   - **Repository name**: _Your GitHub username_ + `-AI-Build-a-thon` (e.g. `johndoe-AI-Build-a-thon`)
-   - **We recommend creating a public repository**, as private repositories will [use Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
-   - Give your repository a name, such as `JS-AI-Build-a-thon`
-   - **Privacy**: _Public_ 
-      
-      ⚠️ Ensure you select **Public**. If you select Private, GitHub Actions will not work.
-   - Scroll down and click the **Create repository** button at the bottom of the form.
-
-2️⃣ After you click the **Create repository** button, ⏳ **WAIT FOR ABOUT 20 SECONDS, THEN REFRESH THE PAGE.**
-
- [GitHub Actions](https://docs.github.com/actions) will AUTOMATICALLY UPDATE YOUR README WITH THE NEXT STEP
+🔄 To restart, click the **Reset** button at the top of any page.
 
 
-   [![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_name=JS-AI-Build-a-thon&template_owner=Azure-Samples)
-<footer>
+## ✅ Activity: Select a quest
 
----
+Click on a quest and follow the instructions to get started.
 
-## 🤝 Get help 
+[![Static Badge](https://img.shields.io/badge/Quest-I_want_to_build_a_local_GenAI_prototype-green)](../../issues/new?title=Quest:+I+want+to+build+a+local+GenAI+prototype&labels=quest&body=🚀+I%27m+ready+to+build+my+first+local+GenAI+prototype%21+Let%27s+get+started+with+AI+in+JavaScript%21%0A%0A**Please+wait+about+15+seconds.+This+issue+will+automatically+close+and+the+README+will+update+with+your+next+instructions.**)
 
-To find an _In-Person_ or _Virtual_ Study Jam and Connect with other developers, join the Azure AI Community Discord.
+[![Static Badge](https://img.shields.io/badge/Quest-I_want_to_move_my_prototype_to_Azure-orange)](../../issues/new?title=Quest:+I+have+a+prototype.+Let's+move+to+Azure&labels=quest&body=☁️+Time+to+take+my+AI+prototype+to+the+cloud%21+Excited+to+deploy+on+Azure+and+scale+up%21%0A%0A**Please+wait+about+15+seconds.+This+issue+will+automatically+close+and+the+README+will+update+with+your+next+instructions.**)
 
-[![Join Azure AI Community Discord](https://dcbadge.limes.pink/api/server/kzRShWzttr)](https://aka.ms/JSAIonDiscord)
+[![Static Badge](https://img.shields.io/badge/Quest-I_want_to_add_a_simple_chat_interface_to_my_app-blue)](../../issues/new?title=Quest:+I+want+to+add+a+simple+chat+interface&labels=quest&body=%F0%9F%92%AC+Let%27s+add+a+chat+interface+and+make+my+AI+app+interactive%21+Ready+for+some+real-time+conversations%21%0A%0A**Please+wait+about+15+seconds.+This+issue+will+automatically+close+and+the+README+will+update+with+your+next+instructions.**)
 
-&copy; 2025 JavaScript at Microsoft &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+[![Static Badge](https://img.shields.io/badge/Quest-I_want_to_integrate_external_data_using_RAG-purple)](../../issues/new?title=Quest:+I+want+to+create+my+first+AI+app+with+RAG&labels=quest&body=%F0%9F%93%9A+I%27m+diving+into+RAG+and+building+my+first+retrieval-augmented+AI+app%21+Let%27s+do+this%21%0A%0A**Please+wait+about+15+seconds.+This+issue+will+automatically+close+and+the+README+will+update+with+your+next+instructions.**)
 
-</footer>
+[![Static Badge](https://img.shields.io/badge/Quest-I_want_to_build_an_AI_Agent-violet)](../../issues/new?title=Quest:+I+want+to+build+an+agent&labels=quest&body=%F0%9F%A4%96+Let%27s+build+an+AI+agent+that+can+help+and+interact+with+users%21+Excited+for+this+step%21%0A%0A**Please+wait+about+15+seconds.+This+issue+will+automatically+close+and+the+README+will+update+with+your+next+instructions.**)
+
+[![Static Badge](https://img.shields.io/badge/Quest-I_want_to_explore_frameworks-yellow)](../../issues/new?title=Quest:+I+want+to+explore+frameworks&labels=quest&body=🛠️+Let%27s+explore+frameworks+and+build+something+amazing%21+Excited+to+learn+and+experiment%21%0A%0A**Please+wait+about+15+seconds.+This+issue+will+automatically+close+and+the+README+will+update+with+your+next+instructions.**)
+
+[![Static Badge](https://img.shields.io/badge/Quest-I_want_to_use_MCP_tools-cyan)](../../issues/new?title=Quest:+I+want+to+use+MCP+tools&labels=quest&body=🔧+Time+to+dive+into+MCP+tools%21+Let%27s+get+started%21%0A%0A**Please+wait+about+15+seconds.+This+issue+will+automatically+close+and+the+README+will+update+with+your+next+instructions.**)
+
+[![Static Badge](https://img.shields.io/badge/Quest-I_want_to_create_templates-pink)](../../issues/new?title=Quest:+I+want+to+create+templates&labels=quest&body=📄+Let%27s+create+templates+to+streamline+future+projects%21+Excited+to+design+and+build%21%0A%0A**Please+wait+about+15+seconds.+This+issue+will+automatically+close+and+the+README+will+update+with+your+next+instructions.**)
+
+
